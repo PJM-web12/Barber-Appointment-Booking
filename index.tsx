@@ -11,5 +11,5 @@ if (!rootElement) {
 
 const root = ReactDOM.createRoot(rootElement);
 root.render(
- <h1> hi there</h1>
+ <h1> hi there</h1> 
 );
