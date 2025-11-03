@@ -1,0 +1,5 @@
+{
+  "name": "Barber Bookings",
+  "description": "An application for barber shops to manage their available slots and for individuals to book appointments with notification reminders.",
+  "requestFramePermissions": []
+}
