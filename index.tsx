@@ -11,9 +11,5 @@ if (!rootElement) {
 
 const root = ReactDOM.createRoot(rootElement);
 root.render(
-  <React.StrictMode>
-    <AppointmentProvider>
-      <App />
-    </AppointmentProvider>
-  </React.StrictMode>
+ <h1> hi there</h1>
 );
